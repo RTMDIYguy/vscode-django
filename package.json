@@ -25,8 +25,7 @@
     "url": "https://github.com/vscode-django/vscode-django/issues"
   },
   "activationEvents": [
-    "onLanguage:django-html",
-    "onLanguage:django-txt",
+    "onLanguage:django-html-tmLanguage",
     "onLanguage:python"
   ],
   "main": "./out/extension",
